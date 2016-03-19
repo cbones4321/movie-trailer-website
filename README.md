@@ -8,4 +8,4 @@ This is a python program that generates an HTML page of my favorite movie traile
 Documentation
 -------------
 
-In order to run this program, you must run the entertainment_center.py file.
+In order to run this program correctly, you must run the entertainment_center.py file.
